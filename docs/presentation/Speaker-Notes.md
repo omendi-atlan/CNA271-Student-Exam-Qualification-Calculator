@@ -1,25 +1,18 @@
 # Full Speaker Notes – CNA271 Presentation
 
-These notes are written in natural spoken language so every group member can sound confident and human.  
-Read them a few times before presentation day. Adjust the wording slightly to match your own voice.
-
 ---
 
-## Member 1 – Opening & Agenda (≈ 60 seconds)
+## Member 1 – Opening & Agenda
 
-“Good morning everyone.  
-We are the group presenting the Student Exam Qualification Calculator for CNA271.
+“Good Afternoon everyone.  
 
 Today we will walk you through how we built a simple console application, containerized it properly, published it to Docker Hub, and how it connects to the bigger ideas of microservices and cloud-native development.
-
-Here is our agenda…”  
-*(show or read the agenda quickly)*
 
 “Every member of the group will speak, and we will all take part in the live demonstration.”
 
 ---
 
-## Member 2 – Monolithic vs Microservices (≈ 2 minutes)
+## Member 2 – Monolithic vs Microservices
 
 “The module starts with a clear contrast between two ways of building software.
 
@@ -31,7 +24,7 @@ Our project is not a full set of microservices yet. It is one clean, containeriz
 
 ---
 
-## Member 3 – Application Logic (≈ 2 minutes)
+## Member 3 – Application Logic
 
 “The application itself is intentionally straightforward so we could focus on the containerization side.
 
@@ -46,7 +39,7 @@ Even a small program needs clear business rules and defensive coding. Those same
 
 ---
 
-## Member 4 – Dockerfile Deep Dive (≈ 2 minutes)
+## Member 4 – Dockerfile Deep Dive
 
 “This is the part we are most proud of.
 
@@ -61,7 +54,7 @@ This is standard practice for production cloud-native services. Smaller images m
 
 ---
 
-## Member 1 – Docker Hub & Run Instructions (≈ 90 seconds)
+## Member 1 – Docker Hub & Run Instructions
 
 “Once the image was built we pushed it to Docker Hub under the name reneumbra/student-exam-app.
 
@@ -87,7 +80,7 @@ This is practical proof of portability and distribution — two core cloud-nativ
 
 **Member 3** enters a set of marks that produce a failing result.
 
-**Member 4** deliberately types invalid input (letters or numbers outside 0–100) to show the validation working.
+**Mongezi Mahlangu** deliberately types invalid input (letters or numbers outside 0–100) to show the validation working.
 
 After the demo, each person can add one short sentence confirming what was just shown.
 
@@ -110,11 +103,11 @@ In a full microservices architecture we could put an API in front of it, run mul
 
 ## Member 3 – Conclusion (≈ 90 seconds)
 
-“To wrap up, we delivered a working application with correct logic and validation, a clean multi-stage Dockerfile, a public image on Docker Hub, and documentation that lets anyone run it with two commands.
+To wrap up, we delivered a working application with correct logic and validation, a clean multi-stage Dockerfile, a public image on Docker Hub, and documentation that lets anyone run it with two commands.
 
 The biggest lessons for us were that packaging and documentation are just as important as the code itself, and that starting with a well-containerized independent unit is the natural first step toward microservices.
 
-Thank you. We are ready for your questions.”
+Thank you. We are ready for your questions.
 
 ---
 
