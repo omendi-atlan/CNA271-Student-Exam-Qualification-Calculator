@@ -1,7 +1,5 @@
 # Research Notes – Monolithic vs Microservices
 
-These notes support the theoretical part of the presentation.
-
 ## Monolithic Architecture
 
 A monolithic application is built as a single deployable unit.  
