@@ -38,7 +38,7 @@ docker run -it --rm reneumbra/student-exam-app:latest
 | Member | Primary Sections |
 |--------|------------------|
 | Member 1 | Agenda, Docker Hub, Closing |
-| Member 2 | Monolithic vs Microservices, Cloud Native Concepts |
+| René van der Walt 604356 | Monolithic vs Microservices, Cloud Native Concepts |
 | Member 3 | Application Logic, Conclusion |
 | Mongezi Mahlangu 605039 | Dockerfile Deep Dive, Live Demo support |
 
