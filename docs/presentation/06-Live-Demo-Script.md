@@ -32,7 +32,7 @@ Enter lower marks, for example:
 
 Expected result: Final Mark below 50% → DOES NOT QUALIFY
 
-**Member 4 – Validation**
+**Mongezi Mahlangu – Validation**
 Deliberately enter invalid input:
 - 150
 - abc
