@@ -1,9 +1,10 @@
 # CNA271 – Student Exam Qualification Calculator
 
-**Belgium Campus | Cloud Native Programming 271 | Project Presentation Package**
+**Belgium Campus | 
+Cloud Native Programming 271 |**
 ---
 
-## Quick Start for Presentation Day
+## Quick Start
 
 1. Open this repository on the presentation machine.
 2. Navigate to `docs/presentation/`.
