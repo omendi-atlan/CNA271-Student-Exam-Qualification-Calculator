@@ -18,7 +18,7 @@
 ### Lessons learned
 
 - Writing a good Dockerfile is as important as writing the application code.
-- Documentation is not optional — it is part of the product.
+- Documentation is not optional, it is part of the product.
 - Working as a group forces us to communicate clearly and divide responsibility.
 
 ### Thank you
