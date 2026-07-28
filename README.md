@@ -84,5 +84,3 @@ dotnet run
 Everything in the `docs/` folder is designed so the entire presentation can be delivered directly from this GitHub repository. No PowerPoint required.
 
 Open the files in order and follow the speaker notes.
-
-Good luck on presentation day.
