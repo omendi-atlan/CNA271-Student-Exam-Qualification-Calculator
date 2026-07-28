@@ -26,14 +26,3 @@
 We are happy to take any questions.
 
 ---
-
-**Possible questions and short answers (see Speaker-Notes.md for fuller versions)**
-
-- Why multi-stage builds?  
-  Smaller, safer final images.
-
-- Why not a full microservices system?  
-  The brief asked for a single containerized application as the starting point.
-
-- Can this run on Kubernetes?  
-  Yes. The same image can be deployed as a Deployment or Job.
