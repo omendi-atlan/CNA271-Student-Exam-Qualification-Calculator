@@ -31,5 +31,3 @@ flowchart TB
     API --> Notify[Notification Service]
     Calc --> DB[(Student Data)]
 ```
-
-These diagrams can be rendered on GitHub or in any Markdown viewer that supports Mermaid.
