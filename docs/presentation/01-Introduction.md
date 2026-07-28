@@ -1,6 +1,6 @@
 # 1. Introduction & Project Overview
 
-Good morning / afternoon everyone.
+Good afternoon everyone.
 
 We are presenting our CNA271 project: a containerized Student Exam Qualification Calculator.
 
