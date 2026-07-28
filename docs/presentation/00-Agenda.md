@@ -16,7 +16,4 @@
 
 ---
 
-**Total time target:** 12–15 minutes + questions
-
-Every group member will speak.  
 The live demo is shared by the whole team.
