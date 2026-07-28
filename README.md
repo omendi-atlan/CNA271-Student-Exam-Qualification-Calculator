@@ -62,7 +62,7 @@ The application is fully containerized and published on Docker Hub so anyone can
 
 ## How to Run the Application
 
-### Using Docker (recommended)
+### Using Docker 
 
 ```bash
 docker pull reneumbra/student-exam-app:latest
