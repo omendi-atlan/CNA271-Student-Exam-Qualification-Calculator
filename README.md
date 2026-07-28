@@ -9,8 +9,7 @@ Cloud Native Programming 271 |**
 1. Open this repository on the presentation machine.
 2. Navigate to `docs/presentation/`.
 3. Follow the numbered Markdown files in order.
-4. Use `Speaker-Notes.md` for exact speaking scripts.
-5. For the live demo, open a terminal and run:
+4. For the live demo, open a terminal and run:
 
 ```bash
 docker pull reneumbra/student-exam-app:latest
