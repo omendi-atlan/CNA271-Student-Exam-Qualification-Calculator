@@ -1,9 +1,6 @@
 # CNA271 – Student Exam Qualification Calculator
 
 **Belgium Campus | Cloud Native Programming 271 | Project Presentation Package**
-
-This repository contains everything needed for the in-person group presentation of our containerized Student Exam Qualification Calculator.
-
 ---
 
 ## Quick Start for Presentation Day
@@ -26,10 +23,10 @@ docker run -it --rm reneumbra/student-exam-app:latest
 ```
 ├── README.md                          ← You are here
 ├── docs/
-│   ├── presentation/                  ← Full slide-by-slide content + speaker notes
-│   ├── architecture/                  ← Diagrams
-│   └── research/                      ← Background research on microservices
-├── src/                               ← Original C# console application
+│   ├── presentation/                  
+│   ├── architecture/                  
+│   └── research/                      
+├── src/                              
 ├── Dockerfile
 └── LICENSE
 ```
@@ -43,7 +40,7 @@ docker run -it --rm reneumbra/student-exam-app:latest
 | Member 1 | Agenda, Docker Hub, Closing |
 | Member 2 | Monolithic vs Microservices, Cloud Native Concepts |
 | Member 3 | Application Logic, Conclusion |
-| Member 4 | Dockerfile Deep Dive, Live Demo support |
+| Mongezi Mahlangu 605039 | Dockerfile Deep Dive, Live Demo support |
 
 All members participate in the live demonstration.
 
