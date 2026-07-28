@@ -21,8 +21,4 @@
 - Documentation is not optional, it is part of the product.
 - Working as a group forces us to communicate clearly and divide responsibility.
 
-### Thank you
-
-We are happy to take any questions.
-
 ---
